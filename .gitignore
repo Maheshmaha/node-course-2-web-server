@@ -1,0 +1,3 @@
+# this contains the files which need to be ignored by git github part of git repository tell git which folder and files you need to ignore
+
+node_modules/
